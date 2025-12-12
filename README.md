@@ -1,7 +1,7 @@
-# nikka-roadmap
+nikka-roadmap
 🚀 ROADMAP — путь от нуля до сильного Backend → Fullstack разработчика
 I. Backend (текущее направление — главное для устройства на работу)
-🔹 Python Backend
+🔷 Python Backend
 
 Основы Python (что нужно для работы, не школа)
 
@@ -13,7 +13,7 @@ I. Backend (текущее направление — главное для ус
 
 Логирование
 
-🔹 FastAPI
+🔷 FastAPI
 
 Роуты
 
@@ -27,7 +27,7 @@ Middleware
 
 JWT авторизация
 
-🔹 SQL + Базы данных
+🔷 SQL + Базы данных
 
 SQL основы
 
@@ -39,7 +39,7 @@ JOIN / SELECT / UPDATE / INSERT
 
 SQLAlchemy ORM
 
-🔹 Парсинг
+🔷 Парсинг
 
 requests
 
@@ -49,7 +49,7 @@ BeautifulSoup4
 
 lxml
 
-🔹 Telegram Bots
+🔷 Telegram Bots
 
 aiogram
 
@@ -59,7 +59,7 @@ FSM
 
 Inline кнопки
 
-🔹 Инструменты
+🔷 Инструменты
 
 Git / GitHub
 
@@ -70,7 +70,7 @@ Linux basics
 Postman
 
 II. Дальнейшее развитие (после Backend-устройства на работу)
-🔹 Frontend
+🔷 Frontend
 
 HTML / CSS
 
@@ -78,7 +78,7 @@ JavaScript
 
 React
 
-🔹 Fullstack
+🔷 Fullstack
 
 SPA + FastAPI backend
 
