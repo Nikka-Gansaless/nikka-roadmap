@@ -1,6 +1,9 @@
 nikka-roadmap
 🚀 ROADMAP — путь от нуля до сильного Backend → Fullstack разработчика
 
+This repository tracks my learning journey from Backend to Fullstack to Frontend. 
+It includes technologies, tools, and planned projects.
+
 I. Backend (текущее направление — главное для устройства на работу)
  
 #Backend
@@ -38,11 +41,13 @@ I. Backend (текущее направление — главное для ус
 
 2)vk_api
 
+##асинхронность/asynchrony
+
 #Frontend
 
 ##JavaScript 
 
-1) Синтаксис и сам язык
+1)Синтаксис и сам язык
 
 ##frontend framework
 
@@ -53,6 +58,16 @@ I. Backend (текущее направление — главное для ус
 1)CSS
 
 2)Html
+
+#Tools
+
+##Git
+
+##Docker
+
+##figma 
+
+# Projects (coming soon)
 
 
 
