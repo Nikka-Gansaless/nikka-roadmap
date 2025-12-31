@@ -5,7 +5,7 @@ This repository tracks my learning journey from Backend to Fullstack to Frontend
 
 ---
 
-## Backend (текущее направление — главное для устройства на работу)
+## Backend 
 
 ### Python
 - ООП
